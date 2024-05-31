@@ -1,5 +1,5 @@
 import Footer from "@/app/_components/footer";
-import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
+import { HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
@@ -57,13 +57,13 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body className={inter.className}>
-        <nav>
+        <nav className="main-nav">
           <ul>
-            <li>Home</li>
-            <li>About</li>
-            <li>Investments</li>
-            <li>Articles</li>
-            <li>Contact</li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/investments">Investments</a></li>
+            <li><a href="/articles">Articles</a></li>
+            <li><a href="/contact">Contact</a></li>
           </ul>
         </nav>
         <div className="min-h-screen">{children}</div>
