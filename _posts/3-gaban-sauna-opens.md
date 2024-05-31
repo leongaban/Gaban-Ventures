@@ -1,11 +1,11 @@
 ---
-title: "Gaban Suana Opens"
+title: "The Gaban Sauna Spa Begins Life in Austin"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 coverImage: "/assets/blog/preview/cover.png"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-05-11T05:35:07.322Z"
 author:
-  name: Joe Haddad
-  picture: "/assets/blog/authors/joe.jpeg"
+  name: Leon Gaban
+  picture: "/assets/blog/authors/leon.png"
 ogImage:
   url: "/assets/blog/preview/cover.png"
 ---

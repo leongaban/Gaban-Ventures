@@ -1,13 +1,13 @@
 ---
-title: "Borneo - Authentic Malay Food"
+title: "Makan's Newest Branch Opens in Manila"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/borneo-food/cover.png"
-date: "2020-03-16T05:35:07.322Z"
+coverImage: "/assets/blog/makan/cover.png"
+date: "2024-03-16T05:35:07.322Z"
 author:
-  name: Joe Haddad
-  picture: "/assets/blog/authors/joe.jpeg"
+  name: Leon Gaban
+  picture: "/assets/blog/authors/leon.png"
 ogImage:
-  url: "/assets/blog/borneo-food/cover.png"
+  url: "/assets/blog/makan/cover.png"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
